@@ -1,0 +1,8 @@
+# Account & Security
+
+Q: How do I reset my password?
+A: Go to Account → Security → Change Password. You'll need your current password and a new one with at least 8 characters and a symbol.
+
+Q: I forgot my password.
+A: Click Forgot Password on the login page. We'll send a reset link to your registered email address.
+

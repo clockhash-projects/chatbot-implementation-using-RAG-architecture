@@ -1,0 +1,8 @@
+# Billing & Payments
+
+Q: Where can I view my invoices?
+A: Visit Billing → Invoices to download or email copies of invoices for any billing period.
+
+Q: Which payment methods do you accept?
+A: We accept major credit cards and PayPal. For annual invoices over $5,000, bank transfer is available.
+

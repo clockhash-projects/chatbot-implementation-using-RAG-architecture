@@ -1,0 +1,7 @@
+embedding_model: "sentence-transformers/bge-large-en"
+llm_model: "gpt-4o-mini"        # Any OpenAI-compatible chat model (or change generate_answer to your provider)
+index_file: "./data/vector.index"
+docs_path: "./data/docs"
+chunk_size: 400                  # words per chunk (roughly)
+top_k: 5                         # number of chunks to retrieve
+
