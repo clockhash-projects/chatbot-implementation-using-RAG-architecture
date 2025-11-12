@@ -10,6 +10,7 @@ generates answers with an LLM (OpenAI-compatible by default).
 
 ## 📁 Project Structure
 rag_chatbot/
+
 ├── data/
 │ └── docs/
 │ ├── faq_getting_started.txt
