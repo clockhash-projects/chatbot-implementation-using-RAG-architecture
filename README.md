@@ -8,15 +8,24 @@ generates answers with an LLM (OpenAI-compatible by default).
 
 ---
 
-## 📁 Project Structure
-rag_chatbot/
+# Step 1 – Add Your Documents
 
-├── data/
-│ └── docs/
-│ ├── faq_getting_started.txt
-│ ├── faq_account.txt
-│ └── faq_billing.txt
-├── build_index.py
-├── chatbot.py
-├── config.yaml
-└── requirements.txt
+Place your content as plain text in:
+data/docs/
+Sample files included:
+
+faq_getting_started.txt
+
+faq_account.txt
+
+faq_billing.txt
+
+You can:
+
+Edit these files
+
+Add new .txt or .md files
+
+Every file in data/docs/ will be indexed.
+
+---
